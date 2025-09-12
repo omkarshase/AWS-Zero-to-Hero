@@ -53,10 +53,13 @@ Another reason for its popularity is the flexibility it offers through different
 ### Account creation on AWS Cloud 
 
 Go to browser and Search for   [AWS sing in ](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Faws.amazon.com%2Fmarketplace%2Fmanagement%2Fsignin%3Fref_%3Dfooter_nav_management_portal%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Faws-mp-seller-management-portal&forceMobileApp=0&code_challenge=yJO5i9fuH-nS3z9H78jV6VNaJFaEiPAMLpyVhHESgdM&code_challenge_method=SHA-256) 
+![[Pasted image 20250911120803.png]] 
+
 
 as you are sing in first time  click on New to AWS ? sing up
 
 1. **Enter Account Information**    
+   ![[Pasted image 20250911121204.png]]
     - Provide your **email address**, **password**, and choose an **AWS account name**.
     - This email will be your **root user account** (use a personal email, not temporary).        
 2. **Provide Contact Information**    
