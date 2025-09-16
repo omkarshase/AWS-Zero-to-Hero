@@ -59,7 +59,6 @@ Go to browser and Search for   [AWS sing in ](https://signin.aws.amazon.com/sign
 as you are sing in first time  click on New to AWS ? sing up
 
 1. **Enter Account Information**    
-   ![[Pasted image 20250911121204.png]]
     - Provide your **email address**, **password**, and choose an **AWS account name**.
     - This email will be your **root user account** (use a personal email, not temporary).        
 2. **Provide Contact Information**    
